@@ -46,12 +46,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
-<h3 align="left">📊 Estadísticas de GitHub:</h3>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaime0506&show_icons=true&locale=es&theme=tokyonight" alt="jaime0506" style="margin-left: 30px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaime0506&locale=es&theme=tokyonight"" alt="jaime0506" />
-</div>
+## 📊 Estadísticas de GitHub:
+
+| <img src="https://github-readme-stats.vercel.app/api?username=jaime0506&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaime0506&locale=es&theme=tokyonight" alt="Racha de GitHub" /> |
+|---|---|
 
 <br>
 
