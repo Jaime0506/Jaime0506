@@ -2,30 +2,30 @@
   <img width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJpZXp6czJtczgzeDVwOXp0a2F3ejl2bGdhczFvNGo2MWxqZ2EwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
 
-<h1 align="center">¡Hola! 👋 Soy Jaime Alberto Mejía</h1>
+<h1 align="center">Hello! 👋 I'm Jaime Alberto Mejía</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<h3 align="center">Desarrollador de software apasionado por la creación de soluciones tecnológicas eficientes.</h3>
+<h3 align="center">Software developer passionate about creating efficient technological solutions.</h3>
 <br>
 
-[![English](https://img.shields.io/badge/🌎-English-%237aa2f7)](README.en.md)
+[![Español](https://img.shields.io/badge/🌎-Español-%237aa2f7)](README.md)
 
-🌱 Actualmente, me encuentro en el sexto semestre de **Ingeniería en Software** en la **Universidad Manuela Beltrán (Colombia)**, donde he fortalecido mis bases en desarrollo y buenas prácticas de programación.
+🌱 I am currently in my sixth semester of **Software Engineering** at **Universidad Manuela Beltrán (Colombia)**, where I have strengthened my foundation in development and best programming practices.
 
-🚀 Con el objetivo de expandir mis habilidades más allá del front-end, he comenzado a especializarme en back-end, profundizando en PostgreSQL para la gestión de bases de datos y en Spring Boot para el desarrollo de aplicaciones escalables y eficientes.
+🚀 To expand my skills beyond front-end development, I have started specializing in back-end, focusing on PostgreSQL for database management and Spring Boot for scalable and efficient application development.
 
-📌 **¿Qué me define?**  
-✔️ Aprendizaje continuo 📖  
-✔️ Código **limpio y escalable** ✨  
-✔️ Enfoque en **resolución de problemas** 🔍  
+📌 **What defines me?**  
+✔️ Continuous learning 📖  
+✔️ **Clean and scalable** code ✨  
+✔️ Focus on **problem-solving** 🔍  
 
-📫 **Contáctame en:**  
+📫 **Contact me at:**  
 
 [![Gmail Badge](https://img.shields.io/badge/-jaimemejia1003@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:jaimemejia1003@gmail.com)](mailto:jaimemejia1003@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Jaime_Alberto_Mejia_Avila-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaime-alberto-mejia-avila-65829a236/)](https://www.linkedin.com/in/jaime-alberto-mejia-avila-65829a236/)
 
-<h3 align="left">🛠️ Tecnologías y herramientas:</h3>
+<h3 align="left">🛠️ Technologies and Tools:</h3>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
@@ -46,10 +46,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
+## 📊 GitHub Stats:
 
-## 📊 Estadísticas de GitHub:
-
-| <img src="https://github-readme-stats.vercel.app/api?username=jaime0506&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaime0506&locale=es&theme=tokyonight" alt="Racha de GitHub" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=jaime0506&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaime0506&locale=en&theme=tokyonight" alt="GitHub Streak" /> |
 |---|---|
 
 <br>
