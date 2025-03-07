@@ -9,7 +9,7 @@
 <h3 align="center">Software developer passionate about creating efficient technological solutions.</h3>
 <br>
 
-[![Español](https://img.shields.io/badge/🌎-Español-%237aa2f7)](README.md)
+[![Español](https://img.shields.io/badge/🌎-Español-%237aa2f7)](README.es.md)
 
 🌱 I am currently in my sixth semester of **Software Engineering** at **Universidad Manuela Beltrán (Colombia)**, where I have strengthened my foundation in development and best programming practices.
 
